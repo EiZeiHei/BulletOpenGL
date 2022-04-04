@@ -1,0 +1,8 @@
+﻿  BasicDemo.cpp
+  BulletOpenGLApplication.cpp
+E:\CS\BulletOpenGL\MultiObjects\BulletOpenGLApplication.cpp(65,33): warning C4305: “参数”: 从“double”到“GLclampf”截断
+E:\CS\BulletOpenGL\MultiObjects\BulletOpenGLApplication.cpp(139,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“float”，可能丢失数据
+  DebugDrawer.cpp
+  main.cpp
+  正在生成代码...
+  MultiObjects.vcxproj -> E:\CS\BulletOpenGL\x64\Debug\MultiObjects.exe

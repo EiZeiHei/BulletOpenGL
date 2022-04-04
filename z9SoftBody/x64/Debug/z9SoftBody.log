@@ -1,0 +1,32 @@
+﻿  BulletOpenGLApplication.cpp
+E:\CS\BulletOpenGL\z9SoftBody\BulletOpenGLApplication.cpp(67,33): warning C4305: “参数”: 从“double”到“GLclampf”截断
+E:\CS\BulletOpenGL\z9SoftBody\BulletOpenGLApplication.cpp(151,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“float”，可能丢失数据
+  DebugDrawer.cpp
+  SoftBodyDemo.cpp
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(38,53): warning C4305: “初始化”: 从“double”到“btScalar”截断
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1232,17): warning C4244: “初始化”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1357,21): warning C4244: “+=”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1361,21): warning C4244: “初始化”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1385,20): warning C4244: “=”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1387,23): warning C4244: “=”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1269,17): warning C4244: “初始化”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1303): message : 查看对正在编译的函数 模板 实例化“void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)”的引用
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  main.cpp
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(38,53): warning C4305: “初始化”: 从“double”到“btScalar”截断
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1232,17): warning C4244: “初始化”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1357,21): warning C4244: “+=”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1361,21): warning C4244: “初始化”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1385,20): warning C4244: “=”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1387,23): warning C4244: “=”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1269,17): warning C4244: “初始化”: 从“double”转换到“btScalar”，可能丢失数据
+E:\CS\HEAD\Bullet\include\BulletSoftBody\btSoftBody.h(1303): message : 查看对正在编译的函数 模板 实例化“void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)”的引用
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  正在生成代码...
+  z9SoftBody.vcxproj -> E:\CS\BulletOpenGL\x64\Debug\z9SoftBody.exe
